@@ -1,7 +1,7 @@
 Hola, Soy Samuel Gomez, estudiante de Ingenieria de Desarrollo de Software, tengo 23 años y actualmente trabajo como Ingeniero Jr en una empresa maquiladora como
 Desarrollador de Software. Desarrollamos sistemas web y aplicaciones de escritorio para Windows, en .NET.
 
-Llevo laborando como desarrollador de software 2 años, tengo experiencia en desarrollo en los siguientes lenguajes de programacion:
+Llevo laborando como desarrollador de software, en especial programacion Backend, 2 años, tengo experiencia en desarrollo en los siguientes lenguajes de programacion:
 1. JavaScript.
 2. PHP.
 3. Visual Basic
