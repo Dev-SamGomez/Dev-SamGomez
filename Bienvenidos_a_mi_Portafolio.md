@@ -16,6 +16,8 @@ Ademas de contar con conocimientos en Office, programacion funcional, programaci
 Sigo en la obtencion de conocimientos y siempre en la mejora de mi logica de programacion, por lo cual cuento con certificados de Platzi, asi como sigo estudiando en dicha
 plataforma.
 
+Ademas de una de mis metas en el ambito laboral, es aprender programacion orientada a videojuegos, ya que siendo esta mi meta de ser desarrollador de videjuegos, sigo aprendiendo mucho de este tipo de programacion.
+
 En este portafolio, mostrare ejemplos de uso en distintos lenguajes de programacion, y algunos visuales en Github Pages, asi como tambien anexar proyectos completos en los que
 colabore o que cree.
 
