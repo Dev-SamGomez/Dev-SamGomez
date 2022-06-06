@@ -21,6 +21,6 @@ Ademas de una de mis metas en el ambito laboral, es aprender programacion orient
 En este portafolio, mostrare ejemplos de uso en distintos lenguajes de programacion, y algunos visuales en Github Pages, asi como tambien anexar proyectos completos en los que
 colabore o que cree.
 
-Sin mas, bienvenidos a mi portafolio.
+Sin mas, bienvenidos a mi portafolio de GitHub.
 
 -- Ing. Samuel Gomez 
